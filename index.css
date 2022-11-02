@@ -30,9 +30,9 @@ p {
 
 }
 #imagem-principal {
-    width: 50%;
-    margin-left: 35%;
-    border: 5px dotted salmon;
+    width: 15%;
+    margin-left: 40%;
+    border: 5px dotted #000000;
     float: left;
     position: absolute;
 }
